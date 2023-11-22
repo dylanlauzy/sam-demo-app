@@ -1,0 +1,5 @@
+venv/
+FastSAM/
+models/*
+uploads/*
+results/
